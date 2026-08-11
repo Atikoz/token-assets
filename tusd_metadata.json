@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "name": "Trc20 USD",
+  "symbol": "TUSD",
+  "website": "https://t.me/Crossover_crossover_bot",
+  "description": {
+    "format": "text",
+    "image_url": "https://raw.githubusercontent.com/Atikoz/token-assets/main/tusd-logo.png",
+    "video_url": null,
+    "content": "Trc20 USD (TUSD) stable token on Axiome Chain."
+  },
+  "socials": "https://t.me/AXIOMEBlockchain_russian",
+  "legal": null,
+  "audit": null,
+  "contacts": null
+}
