@@ -9,7 +9,9 @@
     "video_url": null,
     "content": "Erc20 USD (EUSD) stable token on Axiome Chain."
   },
-  "socials": "https://t.me/AXIOMEBlockchain_russian",
+  "socials": {
+    "Telegram": "https://t.me/AXIOMEBlockchain_russian"
+  },
   "legal": null,
   "audit": null,
   "contacts": null
