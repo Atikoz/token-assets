@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "name": "Ton USD",
+  "symbol": "TonUS",
+  "website": "https://t.me/Crossover_crossover_bot",
+  "description": {
+    "format": "text",
+    "image_url": "https://raw.githubusercontent.com/Atikoz/token-assets/main/tonus.png",
+    "video_url": null,
+    "content": "Ton USD (TonUS) stable token on Axiome Chain."
+  },
+  "socials": {
+    "Telegram": "https://t.me/AXIOMEBlockchain_russian"
+  },
+  "legal": null,
+  "audit": null,
+  "contacts": null
+}
